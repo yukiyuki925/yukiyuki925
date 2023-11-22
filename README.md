@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning **Rails, javascript and more**
 
 - 📝 I regularly write articles on [https://yukiyukixkun.hatenablog.com/entry/2023/10/28/132109](https://yukiyukixkun.hatenablog.com/entry/2023/10/28/132109)
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 </p>
 
